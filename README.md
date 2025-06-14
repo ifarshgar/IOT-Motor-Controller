@@ -1,6 +1,6 @@
 # MotorController
 
-A simple and efficient motor controller project.
+A simple and efficient motor controller project using PI4J Raspberry Pi for Java. The project has an LCD display to show the status of the motor and uses GPIO pins for controlling the motor's speed, direction, and duration. 
 
 ## Features
 
@@ -9,12 +9,23 @@ A simple and efficient motor controller project.
 - Direction control (forward/reverse)
 - Easy integration with microcontrollers
 
+<br />
+<br />
+<img src="./GPIO pin.png" alt="GPIO pin diagram" />
+
+<br />
+<video autoplay loop muted controls width="640" height="360">
+  <source src="./project m.mp4" type="video/mp4">
+</video>
+
 ## Getting Started
 
 1. Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/MotorController.git
-  ```
+
+```bash
+git clone https://github.com/yourusername/MotorController.git
+```
+
 2. Follow the setup instructions in the `docs/` folder.
 
 ## Usage
