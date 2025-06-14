@@ -1,0 +1,40 @@
+# MotorController
+
+A simple and efficient motor controller project.
+
+## Features
+
+- Control DC motors with precision
+- Supports PWM speed control
+- Direction control (forward/reverse)
+- Easy integration with microcontrollers
+
+## Getting Started
+
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/yourusername/MotorController.git
+  ```
+2. Follow the setup instructions in the `docs/` folder.
+
+## Usage
+
+Refer to the example code in the `examples/` directory for typical usage patterns.
+
+## Requirements
+
+- Microcontroller (e.g., Arduino, ESP32, STM32)
+- Motor driver IC (e.g., L298N, DRV8833)
+- Power supply suitable for your motors
+
+## Documentation
+
+See the [Wiki](https://github.com/yourusername/MotorController/wiki) for detailed documentation.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
