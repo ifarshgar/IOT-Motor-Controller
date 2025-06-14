@@ -13,9 +13,6 @@ A simple and efficient motor controller project using PI4J Raspberry Pi for Java
 <br />
 <img src="./GPIO pin.png" alt="GPIO pin diagram" />
 
-<br />
-[Watch the video](./project%20m.mp4)
-
 
 ## Getting Started
 
